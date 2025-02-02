@@ -1,0 +1,26 @@
+{
+  "bot": {
+    "token": "MTMzNTEzMjIxNjI2MjUyOTEwNA.G1IF4W.ky8q3idI8GiFdSQfED9OufTZEwfvCK22gckO6Y",
+    "id": "1335132216262529104",
+    "admins": [
+      "1137243797449887784",
+      "1137243797449887784"
+    ],
+    "ownerId": "1137243797449887784",
+    "developerCommandsServerIds": [
+      "1327946416932257852"
+    ]
+  },
+  "database": {
+    "mongodbUrl": "mongodb+srv://kxklow:928zzl@cluster0.0cz6waa.mongodb.net/?retryWrites=true&w=majority"
+  },
+  "logging": {
+    "guildJoinLogsId": "GUILD_JOIN_LOGS_CHANNEL_ID",
+    "guildLeaveLogsId": "GUILD_LEAVE_LOGS_CHANNEL_ID",
+    "commandLogsChannelId": "COMMAND_LOGS_CHANNEL_ID",
+    "errorLogs": "YOUR_WEBHOOK_URL"
+  },
+  "prefix": {
+    "value": "-"
+  }
+}
